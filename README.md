@@ -1,11 +1,13 @@
 🌐 Nexora Browser
 
 <div align="center">
-https://img.shields.io/badge/Swift-6.0-orange?style=for-the-badge&logo=swift
-https://img.shields.io/badge/SwiftUI-26-blue?style=for-the-badge&logo=swift
-https://img.shields.io/badge/platform-iOS-lightgrey?style=for-the-badge&logo=apple
-https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge
-https://img.shields.io/badge/WKWebView-Enabled-green?style=for-the-badge
+[Swift](https://img.shields.io/badge/Swift-6.0-orange?style=for-the-badge&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-26-blue?style=for-the-badge&logo=swift)
+![Platform](https://img.shields.io/badge/platform-iOS-lightgrey?style=for-the-badge&logo=apple)
+![License](https://img.shields.io/badge/license-Apach-green?style=for-the-badge)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/NikitaStrukalin/To-Do-List.git)
+
 
 https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github
 
