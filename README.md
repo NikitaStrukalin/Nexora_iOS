@@ -1,9 +1,9 @@
 🌐 Nexora Browser
 
 <div align="center">
-https://img.shields.io/badge/Swift-5.9-orange?logo=swift
-https://img.shields.io/badge/SwiftUI-5.0-blue?logo=swift
-https://img.shields.io/badge/iOS-17.0+-lightgrey?logo=apple
+https://img.shields.io/badge/Swift-6.0-orange?logo=swift
+https://img.shields.io/badge/SwiftUI-26-blue?logo=swift
+https://img.shields.io/badge/iOS-26.0+-lightgrey?logo=apple
 https://img.shields.io/badge/WKWebView-Enabled-success
 https://img.shields.io/badge/Version-1.0.0-blue
 
