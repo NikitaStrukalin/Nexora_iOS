@@ -1,15 +1,5 @@
 🌐 Nexora Browser
 
-<div align="center">
-https://img.shields.io/badge/Swift-6.0-orange?logo=swift
-https://img.shields.io/badge/SwiftUI-26-blue?logo=swift
-https://img.shields.io/badge/iOS-26.0+-lightgrey?logo=apple
-https://img.shields.io/badge/WKWebView-Enabled-success
-https://img.shields.io/badge/Version-1.0.0-blue
-
-https://img.shields.io/badge/View-GitHub-black?logo=github
-
-</div>
 🚀 О проекте
 
 Nexora Browser - современный и быстрый веб-браузер для iOS, разработанный на SwiftUI с использованием WKWebView. Браузер предлагает чистый интерфейс, высокую производительность и все необходимые функции для комфортного серфинга в интернете.
