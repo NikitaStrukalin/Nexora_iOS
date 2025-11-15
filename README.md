@@ -1,10 +1,6 @@
 🌐 Nexora Browser
 
 <div align="center">
-![Swift](https://img.shields.io/badge/Swift-5.0-orange?style=for-the-badge&logo=swift)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-2.0-blue?style=for-the-badge&logo=swift)
-![Platform](https://img.shields.io/badge/platform-iOS-lightgrey?style=for-the-badge&logo=apple)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
