@@ -1,8 +1,11 @@
 🌐 Nexora Browser
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2.0-blue?logo=swift)
+![iOS](https://img.shields.io/badge/iOS-15.0+-lightgrey?logo=apple)
+![License](https://img.shields.io/badge/License-Apache-green)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
 </div>
 🚀 О проекте
